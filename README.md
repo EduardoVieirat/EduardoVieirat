@@ -6,14 +6,16 @@
 Na busca por me tornar um desenvolvedor full stack:
 
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas
+- 🌱 Estudando sobre HTML/CSS, JavaScript etc.
 
-
-<div >
+</br>
+<div>
   <a href="https://github.com/EduardoVieirat/">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </br>
     <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVieirat&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 </br>
 
 <div style="display: inline_block">
@@ -33,3 +35,15 @@ Na busca por me tornar um desenvolvedor full stack:
 </div>
 
 ![Snake animation](https://github.com/EduardoVieirat/EduardoVieirat/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
