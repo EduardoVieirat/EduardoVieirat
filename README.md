@@ -11,6 +11,7 @@ Na busca por me tornar um desenvolvedor full stack:
 <div align="center">
   <a href="https://github.com/EduardoVieirat/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVieirat&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
