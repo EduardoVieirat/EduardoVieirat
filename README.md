@@ -30,4 +30,4 @@ Na busca por me tornar um desenvolvedor full stack:
 
 </div>
 
-
+![Snake animation](https://github.com/EduardoVieirat/EduardoVieirat/blob/output/github-contribution-grid-snake.svg)
