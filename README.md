@@ -10,17 +10,18 @@ Na busca por me tornar um desenvolvedor full stack:
 
 <div >
   <a href="https://github.com/EduardoVieirat/">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </br>
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVieirat&layout=compact&langs_count=7&theme=dark"/>
+    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoVieirat&layout=compact&langs_count=7&theme=dark"/>
 </div>
+</br>
 
-### Linguagens que estou estundando:
 <div style="display: inline_block">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <h2>Linguagens que estou estundando:</h2>
+  <img  alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
   </br>
