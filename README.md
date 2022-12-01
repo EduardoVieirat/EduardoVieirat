@@ -3,10 +3,12 @@
 <!--
 **EduardoVieiraDev/EduardoVieiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Na busca por me tornar um desenvolvedor full stack:
+Desenvolvedor full stack em formação:
 
-- 🔭 Atualmente cursando análise e desenvolvimento de sistemas
-- 🌱 Estudando sobre HTML/CSS, JavaScript etc.
+- 🔭 Atualmente cursando análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul
+- 🔭 Cursando Desenvolvimento de software na Cubos Academy
+- 🌱 Conhecimento em | HTML | CSS | Javascript | Node.js | Banco de Dados | MySQL |
+
 
 </br>
 <div>
@@ -23,7 +25,7 @@ Na busca por me tornar um desenvolvedor full stack:
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--   <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 
 </div>
   </br>
