@@ -3,12 +3,10 @@
 <!--
 **EduardoVieiraDev/EduardoVieiraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Desenvolvedor full stack em formação:
 
-- 🔭 Atualmente cursando análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul
-- 🔭 Cursando Desenvolvimento de software na Cubos Academy
 - 🌱 Conhecimento em | HTML | CSS | Javascript | Node.js | Banco de Dados | MySQL |
-
+- 🔭 Cursando Desenvolvimento de software na Cubos Academy
+- 🔭 Atualmente cursando análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul
 
 </br>
 <div>
