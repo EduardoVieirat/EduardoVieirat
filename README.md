@@ -1,6 +1,6 @@
 # Olá eu sou o Eduardo Vieira 👋
 
-- 🌱 Conhecimento em | HTML | CSS | Javascript | Node.js | Banco de Dados | MySQL |
+- 🌱 Conhecimento em | React.js | Node.js | Javascript | PostGreSQL | HTML/CSS
 - 🔭 Cursando Desenvolvimento de software na Cubos Academy
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul
 
@@ -12,11 +12,13 @@
 
 
 <div style="display: inline_block">
-  <h2>Linguagens que estou estundando:</h2>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <h2>Tecnologias que uso:</h2>
+  <img align="center" alt="Edu-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Edu-Nodejs" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Edu-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-PostgresSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Edu-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   </br>
 <div> 
