@@ -5,10 +5,10 @@
 - 🔭 Atualmente cursando análise e desenvolvimento de sistemas pela Universidade Cruzeiro do Sul
 
 <div>
-  <a href="https://github.com/EduardoVieirat/">
+  <!-- <a href="https://github.com/EduardoVieirat/">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eduardovieirat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </br>
-    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardovieirat&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardovieirat&layout=compact&langs_count=7&theme=dark"/> -->
 
 
 <div style="display: inline_block">
